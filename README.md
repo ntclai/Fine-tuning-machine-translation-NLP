@@ -27,3 +27,9 @@ This model is a fine-tuned version of Helsinki-NLP/opus-mt-en-vi on the mt_eng_v
   - Gen Len: 27.230600
 
 The model after training is saved at: https://huggingface.co/ntclai/en_vi_translation_1
+
+---
+### Reference
+  - https://huggingface.co/docs/transformers/tasks/translation?fbclid=IwAR039-v3EKAUPU6hiim5iTAUoQtE2B_iK_5HY2U7ThR1HlJyeEb30PaUIOU
+
+  - https://github.com/mariaviana21/fine-tuning-machine-translation
