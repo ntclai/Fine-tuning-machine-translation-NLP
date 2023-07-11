@@ -15,3 +15,15 @@
 
   - Dataset name: mt_eng_vietnamese (iwslt2015-en-vi)
   - Link (Hugging Face): https://huggingface.co/datasets/mt_eng_vietnamese/viewer/iwslt2015-vi-en/train
+--- 
+### Project result
+
+This model is a fine-tuned version of Helsinki-NLP/opus-mt-en-vi on the mt_eng_vietnamese dataset. It achieves the following results on the evaluation set:
+
+  - Loss: 1.376056
+
+  - Bleu: 34.515300
+
+  - Gen Len: 27.230600
+
+The model after training is saved at: https://huggingface.co/ntclai/en_vi_translation_1
