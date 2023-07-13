@@ -31,7 +31,7 @@ The model after training is saved at: https://huggingface.co/ntclai/en_vi_transl
 ---
 
 ### Application
-  - Applying model results as a translation website
+  - Applying model results as a translation website (translate from English to Vietnamese)
   - Link: https://translate-hub.vercel.app/
 
 --- 
